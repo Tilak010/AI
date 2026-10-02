@@ -1,0 +1,12 @@
+[project]
+name = "multiagent"
+version = "0.1.0"
+description = "Single Agent vs Multi-Agent Token Comparison"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "groq>=0.11.0",
+    "python-dotenv>=1.0.0",
+    "tavily-python>=0.5.0",
+    "tabulate>=0.9.0",
+]
